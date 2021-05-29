@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/granite_bricks",
+    "up": "elementablock:blocks/granite_bricks",
+    "north": "elementablock:blocks/granite_bricks",
+    "east": "elementablock:blocks/granite_bricks",
+    "south": "elementablock:blocks/granite_bricks",
+    "west": "elementablock:blocks/granite_bricks",
+    "particle": "elementablock:blocks/granite_bricks"
+  }
+}

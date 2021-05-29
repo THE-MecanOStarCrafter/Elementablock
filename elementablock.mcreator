@@ -1,0 +1,123 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Granitebricks",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granitebricks"
+    },
+    {
+      "name": "Verticaloakplanks",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticaloakplanks"
+    },
+    {
+      "name": "Verticalbirchplanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticalbirchplanks"
+    },
+    {
+      "name": "Verticaldarkoakplanks",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticaldarkoakplanks"
+    },
+    {
+      "name": "Verticalacaciaplanks",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticalacaciaplanks"
+    },
+    {
+      "name": "Verticalspruceplanks",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticalspruceplanks"
+    },
+    {
+      "name": "Verticaljungleplanks",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticaljungleplanks"
+    },
+    {
+      "name": "Verticalcrimsonplanks",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticalcrimsonplanks"
+    },
+    {
+      "name": "Verticalwarpedplanks",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "verticalwarpedplanks"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.elementablock.verticaldarkoakplanks": "Vertical dark oak planks",
+      "block.elementablock.verticalacaciaplanks": "Vertical acacia planks",
+      "block.elementablock.verticaloakplanks": "Vertical oak planks",
+      "block.elementablock.verticalspruceplanks": "Vertical spruce planks",
+      "block.elementablock.granitebricks": "Granite bricks",
+      "block.elementablock.verticalwarpedplanks": "Vertical warped planks",
+      "block.elementablock.verticalbirchplanks": "Vertical birch planks",
+      "block.elementablock.verticaljungleplanks": "Vertical jungle planks",
+      "block.elementablock.verticalcrimsonplanks": "Vertical crimson planks"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "elementablock",
+    "modName": "Elementablock",
+    "version": "1.0.0",
+    "author": "mecanostarcrafter, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.5",
+    "modElementsPackage": "net.mcreator.elementablock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/vertical_birch_planks",
+    "up": "elementablock:blocks/vertical_birch_planks",
+    "north": "elementablock:blocks/vertical_birch_planks",
+    "east": "elementablock:blocks/vertical_birch_planks",
+    "south": "elementablock:blocks/vertical_birch_planks",
+    "west": "elementablock:blocks/vertical_birch_planks",
+    "particle": "elementablock:blocks/vertical_birch_planks"
+  }
+}

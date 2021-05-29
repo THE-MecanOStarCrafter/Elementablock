@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/vertical_dark_oak_planks",
+    "up": "elementablock:blocks/vertical_dark_oak_planks",
+    "north": "elementablock:blocks/vertical_dark_oak_planks",
+    "east": "elementablock:blocks/vertical_dark_oak_planks",
+    "south": "elementablock:blocks/vertical_dark_oak_planks",
+    "west": "elementablock:blocks/vertical_dark_oak_planks",
+    "particle": "elementablock:blocks/vertical_dark_oak_planks"
+  }
+}

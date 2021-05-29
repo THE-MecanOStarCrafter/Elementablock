@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/vertical_warped_planks",
+    "up": "elementablock:blocks/vertical_warped_planks",
+    "north": "elementablock:blocks/vertical_warped_planks",
+    "east": "elementablock:blocks/vertical_warped_planks",
+    "south": "elementablock:blocks/vertical_warped_planks",
+    "west": "elementablock:blocks/vertical_warped_planks",
+    "particle": "elementablock:blocks/vertical_warped_planks"
+  }
+}

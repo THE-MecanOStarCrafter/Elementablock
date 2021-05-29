@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/vertical_acacia_planks",
+    "up": "elementablock:blocks/vertical_acacia_planks",
+    "north": "elementablock:blocks/vertical_acacia_planks",
+    "east": "elementablock:blocks/vertical_acacia_planks",
+    "south": "elementablock:blocks/vertical_acacia_planks",
+    "west": "elementablock:blocks/vertical_acacia_planks",
+    "particle": "elementablock:blocks/vertical_acacia_planks"
+  }
+}
