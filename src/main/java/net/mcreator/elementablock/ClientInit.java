@@ -34,6 +34,9 @@ public class ClientInit implements ClientModInitializer {
 		BlockRenderLayerMap.INSTANCE.putBlock(ElementablockMod.Verticaljungleplanks_BLOCK, RenderLayer.getCutoutMipped());
 		BlockRenderLayerMap.INSTANCE.putBlock(ElementablockMod.Verticalcrimsonplanks_BLOCK, RenderLayer.getCutoutMipped());
 		BlockRenderLayerMap.INSTANCE.putBlock(ElementablockMod.Verticalwarpedplanks_BLOCK, RenderLayer.getCutoutMipped());
+		BlockRenderLayerMap.INSTANCE.putBlock(ElementablockMod.Sandstonebricks_BLOCK, RenderLayer.getCutoutMipped());
+		BlockRenderLayerMap.INSTANCE.putBlock(ElementablockMod.Bamboostickpile_BLOCK, RenderLayer.getCutoutMipped());
+		BlockRenderLayerMap.INSTANCE.putBlock(ElementablockMod.Deadgrassblock_BLOCK, RenderLayer.getCutoutMipped());
 		HudRenderCallback.EVENT.register((matrices, tickDelta) -> {
 		});
 		ClientTickEvents.END_CLIENT_TICK.register((client) -> {

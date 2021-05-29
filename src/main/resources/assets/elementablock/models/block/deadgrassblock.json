@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/dirt",
+    "up": "elementablock:blocks/dead_grass_block_top",
+    "north": "elementablock:blocks/dead_grass_block_side",
+    "east": "elementablock:blocks/dirt",
+    "south": "elementablock:blocks/dirt",
+    "west": "elementablock:blocks/dirt",
+    "particle": "elementablock:blocks/dirt"
+  }
+}

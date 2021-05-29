@@ -30,7 +30,10 @@ import net.mcreator.elementablock.block.VerticaldarkoakplanksBlock;
 import net.mcreator.elementablock.block.VerticalcrimsonplanksBlock;
 import net.mcreator.elementablock.block.VerticalbirchplanksBlock;
 import net.mcreator.elementablock.block.VerticalacaciaplanksBlock;
+import net.mcreator.elementablock.block.SandstonebricksBlock;
 import net.mcreator.elementablock.block.GranitebricksBlock;
+import net.mcreator.elementablock.block.DeadgrassblockBlock;
+import net.mcreator.elementablock.block.BamboostickpileBlock;
 
 import net.fabricmc.fabric.api.command.v1.CommandRegistrationCallback;
 import net.fabricmc.api.ModInitializer;
@@ -71,6 +74,15 @@ public class ElementablockMod implements ModInitializer {
 			new VerticalwarpedplanksBlock());
 	public static final BlockItem Verticalwarpedplanks_ITEM = Registry.register(Registry.ITEM, id("verticalwarpedplanks"),
 			new BlockItem(Verticalwarpedplanks_BLOCK, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
+	public static final Block Sandstonebricks_BLOCK = Registry.register(Registry.BLOCK, id("sandstonebricks"), new SandstonebricksBlock());
+	public static final BlockItem Sandstonebricks_ITEM = Registry.register(Registry.ITEM, id("sandstonebricks"),
+			new BlockItem(Sandstonebricks_BLOCK, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
+	public static final Block Bamboostickpile_BLOCK = Registry.register(Registry.BLOCK, id("bamboostickpile"), new BamboostickpileBlock());
+	public static final BlockItem Bamboostickpile_ITEM = Registry.register(Registry.ITEM, id("bamboostickpile"),
+			new BlockItem(Bamboostickpile_BLOCK, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
+	public static final Block Deadgrassblock_BLOCK = Registry.register(Registry.BLOCK, id("deadgrassblock"), new DeadgrassblockBlock());
+	public static final BlockItem Deadgrassblock_ITEM = Registry.register(Registry.ITEM, id("deadgrassblock"),
+			new BlockItem(Deadgrassblock_BLOCK, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS)));
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing ElementablockMod");

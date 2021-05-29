@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/sandstone_bricks",
+    "up": "elementablock:blocks/sandstone_bricks",
+    "north": "elementablock:blocks/sandstone_bricks",
+    "east": "elementablock:blocks/sandstone_bricks",
+    "south": "elementablock:blocks/sandstone_bricks",
+    "west": "elementablock:blocks/sandstone_bricks",
+    "particle": "elementablock:blocks/sandstone_bricks"
+  }
+}

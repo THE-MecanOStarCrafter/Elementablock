@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "elementablock:blocks/bamboo_stick_pile",
+    "up": "elementablock:blocks/bamboo_stick_pile",
+    "north": "elementablock:blocks/bamboo_stick_pile",
+    "east": "elementablock:blocks/bamboo_stick_pile",
+    "south": "elementablock:blocks/bamboo_stick_pile",
+    "west": "elementablock:blocks/bamboo_stick_pile",
+    "particle": "elementablock:blocks/bamboo_stick_pile"
+  }
+}
